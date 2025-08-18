@@ -13,12 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hola, soy Emiliano Luna 
+# Hola, soy Emi
 
 Soy desarrollador en **desarrollo web**, **DevOps** y **arquitectura de software**. 
 Me entretiene aprender nuevas tecnologías, crear proyectos educativos para compartir conocimientos, ademas de poder aplicar soluciones más complejas como **pipelines de CI/CD**, **contenedores** y **automatización**.
 
-# Hi, I'm Emiliano Luna
+# Hi, I'm Emi
 
 I’m a developer specialized in web development, DevOps, and software architecture.
 I enjoy learning new technologies, creating educational projects to share knowledge, and applying more advanced solutions such as CI/CD pipelines, containers, and automation.
