@@ -13,7 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hola, soy Emiliano Luna Soy desarrollador en **desarrollo web**, **DevOps** y **arquitectura de software**. 
+# Hola, soy Emiliano Luna 
+
+Soy desarrollador en **desarrollo web**, **DevOps** y **arquitectura de software**. 
 Me entretiene aprender nuevas tecnologías, crear proyectos educativos para compartir conocimientos, ademas de poder aplicar soluciones más complejas como **pipelines de CI/CD**, **contenedores** y **automatización**.
 
 # Hi, I'm Emiliano Luna
