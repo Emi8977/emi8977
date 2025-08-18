@@ -23,23 +23,26 @@ I enjoy learning new technologies, creating educational projects to share knowle
 
 En este perfil se divide en dos secciones
 
-## 📘 Proyectos Educativos
+## ✏ Proyectos Educativos
 - Java Básico (POO)
 - Python con Flask (CRUD con Mysql y Mongo)
 - Proyectos varios con Javascript (Jquery & AjAX)
 - Proyectos con React.js , Vite.js, Node.js y Express.js
 
-## 🚀 Proyectos Avanzados
+## ⚙ Proyectos Avanzados
 - Docker - Plantillas/templates de Dockerfiles para proyectos MERN, Python Web Stack
 - CI/CD con Kubernetes: CI en Jenkinsfile & CI en Github-Action
 - DevOps Infrastructure: Pipeline As Code, Infraestructura As Code, ArgoCD enviroments....
 
 
-## 🛠️ Tecnologías y Herramientas
+## ⊛ Tecnologías y Herramientas
 
 - **Lenguajes:** Java, JavaScript, Python, SQL  
 - **Frontend:** React.js, Vite.js, HTML, CSS, Bootstrap  
 - **Backend:** Node.js, Express.js, Flask, Spring  
 - **DevOps / Infraestructura:** Docker, Kubernetes, Jenkins, GitHub Actions, ArgoCD, Terraform, Ansible  
-- **Bases de datos:** MySQL, MongoDB  
+- **Bases de datos:** MySQL, MongoDB
+
+## ✉ Contacto
+- email: emiliano8977@gmail.com
 
