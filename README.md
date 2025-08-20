@@ -13,9 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Español (original, ligeramente pulido):
 
-#Hola, soy Emi
+# Hola, soy Emi
 
 Soy estudiante de desarrollo de software (Instituto Tecnológico Universitario, Universidad Nacional de Cuyo - ARG). Me dedico a desarrollo web, DevOps y arquitectura de software.
 Disfruto aprender nuevas tecnologías, crear proyectos educativos para compartir conocimientos y aplicar soluciones más avanzadas como pipelines de CI/CD, contenedores y automatización.
