@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 
 
-  <h1 align="center"> Hola, soy Emi<h1><br>
+  <h1 align="center"> Hola, soy Emi<h1>
   <h3 align="center">Software Developer | 🇦🇷 Mendoza, Argentina</h3>
 
 
