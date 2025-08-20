@@ -46,7 +46,7 @@ I enjoy exploring new technologies, building educational projects to share knowl
 ---
 
 <h2 align="center">⊛ Tecnologías y Herramientas</h2>
-<p align="center">
+
 | Lenguajes | Frontend | Backend | DevOps / Infraestructura | Bases de datos |
 |-----------|---------|--------|-------------------------|----------------|
 | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
@@ -58,13 +58,12 @@ I enjoy exploring new technologies, building educational projects to share knowl
 | | | | ![Ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white) | |
 
 ---
-</p>
+
 ## ✉ Contacto
 
-<div style="border:2px solid #4CAF50; padding: 10px; border-radius: 10px; display: inline-block;">
+<div align="center" style="border:2px solid #4CAF50; padding: 10px; border-radius: 10px; display: inline-block;">
 - 📧 emiliano8977@gmail.com
-- 🌐 [LinkedIn](https://www.linkedin.com/in/emi)
-- 🐦 [Twitter](https://twitter.com/emi_dev)
+
 </div>
 
 
