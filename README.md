@@ -30,7 +30,7 @@ Disfruto aprender nuevas tecnologías, crear proyectos educativos para compartir
 <p>I’m a software development student (Instituto Tecnológico Universitario, Universidad Nacional de Cuyo - ARG), focusing on web development, DevOps, and software architecture.  
 I enjoy exploring new technologies, building educational projects to share knowledge, and implementing advanced solutions such as CI/CD pipelines, containers, and automation.
 </p>
----
+
 
 ## ✏ Proyectos Educativos
 - Java Básico (POO)
@@ -43,7 +43,6 @@ I enjoy exploring new technologies, building educational projects to share knowl
 - CI/CD con Kubernetes: CI en Jenkinsfile & CI en GitHub Actions
 - DevOps Infrastructure: Pipeline As Code, Infraestructura As Code, ArgoCD environments
 
----
 
 <h2 align="center">⊛ Tecnologías y Herramientas</h2>
 
@@ -62,7 +61,7 @@ I enjoy exploring new technologies, building educational projects to share knowl
 </div>
 
 
----
+
 
 <h2 align="center">✉ Contacto</h2>
 
