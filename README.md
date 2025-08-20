@@ -13,15 +13,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hola, soy Emi
+Español (original, ligeramente pulido):
 
-Soy desarrollador en **desarrollo web**, **DevOps** y **arquitectura de software**. 
-Me entretiene aprender nuevas tecnologías, crear proyectos educativos para compartir conocimientos, ademas de poder aplicar soluciones más complejas como **pipelines de CI/CD**, **contenedores** y **automatización**.
+#Hola, soy Emi
+
+Soy estudiante de desarrollo de software (Instituto Tecnológico Universitario, Universidad Nacional de Cuyo - ARG). Me dedico a desarrollo web, DevOps y arquitectura de software.
+Disfruto aprender nuevas tecnologías, crear proyectos educativos para compartir conocimientos y aplicar soluciones más avanzadas como pipelines de CI/CD, contenedores y automatización.
 
 # Hi, I'm Emi
 
-I’m a developer specialized in web development, DevOps, and software architecture.
-I enjoy learning new technologies, creating educational projects to share knowledge, and applying more advanced solutions such as CI/CD pipelines, containers, and automation.
+I’m a software development student (Instituto Tecnológico Universitario, Universidad Nacional de Cuyo - ARG), focusing on web development, DevOps, and software architecture.
+I enjoy exploring new technologies, building educational projects to share knowledge, and implementing advanced solutions such as CI/CD pipelines, containers, and automation.
 
 En este perfil se divide en dos secciones
 
