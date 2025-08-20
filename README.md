@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-  <strong>Hola, soy Emi</strong><br>
-  Software Developer | 🇦🇷 Mendoza, Argentina
+  <strong># Hola, soy Emi</strong><br>
+  ### Software Developer | 🇦🇷 Mendoza, Argentina
 </p>
 
 Soy estudiante de desarrollo de software (Instituto Tecnológico Universitario, Universidad Nacional de Cuyo - ARG). Me dedico a desarrollo web, DevOps y arquitectura de software.  
