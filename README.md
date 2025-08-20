@@ -42,7 +42,7 @@ I enjoy exploring new technologies, building educational projects to share knowl
 - CI/CD con Kubernetes: CI en Jenkinsfile & CI en GitHub Actions
 - DevOps Infrastructure: Pipeline As Code, Infraestructura As Code, ArgoCD environments
 
-
+<br>
 <h2 align="center">⊛ Tecnologías y Herramientas</h2>
 
 <div align="center">
