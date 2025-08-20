@@ -14,40 +14,59 @@ Here are some ideas to get you started:
 -->
 
 
-# Hola, soy Emi
+<p align="center">
+  <h1>Hola, soy Emi</h1>
+  <h3>Software Developer | 🇦🇷 Mendoza, Argentina</h3>
+</p>
 
-Soy estudiante de desarrollo de software (Instituto Tecnológico Universitario, Universidad Nacional de Cuyo - ARG). Me dedico a desarrollo web, DevOps y arquitectura de software.
+Soy estudiante de desarrollo de software (Instituto Tecnológico Universitario, Universidad Nacional de Cuyo - ARG). Me dedico a desarrollo web, DevOps y arquitectura de software.  
 Disfruto aprender nuevas tecnologías, crear proyectos educativos para compartir conocimientos y aplicar soluciones más avanzadas como pipelines de CI/CD, contenedores y automatización.
 
-# Hi, I'm Emi
+---
 
-I’m a software development student (Instituto Tecnológico Universitario, Universidad Nacional de Cuyo - ARG), focusing on web development, DevOps, and software architecture.
+<p align="center">
+  <h1>Hi, I'm Emi</h1>
+</p>
+
+I’m a software development student (Instituto Tecnológico Universitario, Universidad Nacional de Cuyo - ARG), focusing on web development, DevOps, and software architecture.  
 I enjoy exploring new technologies, building educational projects to share knowledge, and implementing advanced solutions such as CI/CD pipelines, containers, and automation.
 
-En este perfil se divide en dos secciones
+---
 
 ## ✏ Proyectos Educativos
 - Java Básico (POO)
-- Python con Flask (CRUD con Mysql y Mongo)
-- Proyectos varios con Javascript (Jquery & AjAX)
-- Proyectos con React.js , Vite.js, Node.js y Express.js
+- Python con Flask (CRUD con MySQL y Mongo)
+- Proyectos varios con JavaScript (jQuery & AJAX)
+- Proyectos con React.js, Vite.js, Node.js y Express.js
 
 ## ⚙ Proyectos Avanzados
 - Docker - Plantillas/templates de Dockerfiles para proyectos MERN, Python Web Stack
-- CI/CD con Kubernetes: CI en Jenkinsfile & CI en Github-Action
-- DevOps Infrastructure: Pipeline As Code, Infraestructura As Code, ArgoCD enviroments....
+- CI/CD con Kubernetes: CI en Jenkinsfile & CI en GitHub Actions
+- DevOps Infrastructure: Pipeline As Code, Infraestructura As Code, ArgoCD environments
 
+---
 
 ## ⊛ Tecnologías y Herramientas
+| Lenguajes | Frontend | Backend | DevOps / Infraestructura | Bases de datos |
+|-----------|---------|--------|-------------------------|----------------|
+| ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) | ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) | ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) | ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white) | |
+| | ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) | |
+| | ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) | | ![ArgoCD](https://img.shields.io/badge/ArgoCD-000000?style=for-the-badge&logo=argocd&logoColor=white) | |
+| | | | ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white) | |
+| | | | ![Ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white) | |
 
-- **Lenguajes:** Java, JavaScript, Python, SQL  
-- **Frontend:** React.js, Vite.js, HTML, CSS, Bootstrap  
-- **Backend:** Node.js, Express.js, Flask, Spring  
-- **DevOps / Infraestructura:** Docker, Kubernetes, Jenkins, GitHub Actions, ArgoCD, Terraform, Ansible  
-- **Bases de datos:** MySQL, MongoDB
+---
 
 ## ✉ Contacto
-- email: emiliano8977@gmail.com
+
+<div style="border:2px solid #4CAF50; padding: 10px; border-radius: 10px; display: inline-block;">
+- 📧 emiliano8977@gmail.com
+- 🌐 [LinkedIn](https://www.linkedin.com/in/emi)
+- 🐦 [Twitter](https://twitter.com/emi_dev)
+</div>
+
 
 
 
