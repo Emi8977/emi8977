@@ -31,13 +31,13 @@ I enjoy exploring new technologies, building educational projects to share knowl
 </p>
 
 
-## ✏ Proyectos Educativos
+## ⊛ Proyectos Educativos
 - Java Básico (POO)
 - Python con Flask (CRUD con MySQL y Mongo)
 - Proyectos varios con JavaScript (jQuery & AJAX)
 - Proyectos con React.js, Vite.js, Node.js y Express.js
 
-## ⚙ Proyectos Avanzados
+## ⊛ Proyectos Avanzados
 - Docker - Plantillas/templates de Dockerfiles para proyectos MERN, Python Web Stack
 - CI/CD con Kubernetes: CI en Jenkinsfile & CI en GitHub Actions
 - DevOps Infrastructure: Pipeline As Code, Infraestructura As Code, ArgoCD environments
