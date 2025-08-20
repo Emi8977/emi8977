@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 -->
 
 
-<p align="center">
-  <h1> Hola, soy Emi<h1><br>
-  <h3>Software Developer | 🇦🇷 Mendoza, Argentina</h3>
-</p>
+
+  <h1 align="center"> Hola, soy Emi<h1><br>
+  <h3 align="center">Software Developer | 🇦🇷 Mendoza, Argentina</h3>
+
 
 Soy estudiante de desarrollo de software (Instituto Tecnológico Universitario, Universidad Nacional de Cuyo - ARG). Me dedico a desarrollo web, DevOps y arquitectura de software.  
 Disfruto aprender nuevas tecnologías, crear proyectos educativos para compartir conocimientos y aplicar soluciones más avanzadas como pipelines de CI/CD, contenedores y automatización.
