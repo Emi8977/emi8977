@@ -19,18 +19,17 @@ Here are some ideas to get you started:
   <h3 align="center">Software Developer | 🇦🇷 Mendoza, Argentina</h3>
 
 
-Soy estudiante de desarrollo de software (Instituto Tecnológico Universitario, Universidad Nacional de Cuyo - ARG). Me dedico a desarrollo web, DevOps y arquitectura de software.  
+<p>Soy estudiante de desarrollo de software (Instituto Tecnológico Universitario, Universidad Nacional de Cuyo - ARG). Me dedico a desarrollo web, DevOps y arquitectura de software.  
 Disfruto aprender nuevas tecnologías, crear proyectos educativos para compartir conocimientos y aplicar soluciones más avanzadas como pipelines de CI/CD, contenedores y automatización.
-
+</p>
 ---
 
-<p align="center">
-  <h1>Hi, I'm Emi</h1>
-</p>
+<h1 align="center">
+  Hi, I'm Emi</h1>
 
-I’m a software development student (Instituto Tecnológico Universitario, Universidad Nacional de Cuyo - ARG), focusing on web development, DevOps, and software architecture.  
+<p>I’m a software development student (Instituto Tecnológico Universitario, Universidad Nacional de Cuyo - ARG), focusing on web development, DevOps, and software architecture.  
 I enjoy exploring new technologies, building educational projects to share knowledge, and implementing advanced solutions such as CI/CD pipelines, containers, and automation.
-
+</p>
 ---
 
 ## ✏ Proyectos Educativos
