@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 
 
 
-  <h1 align="center"> Hola, soy Emi<h1>
-  <h3 align="center">Software Developer | 🇦🇷 Mendoza, Argentina</h3>
+<h1 align="center"> Hola, soy Emi<h1>
+<h3 align="center">Software Developer | 🇦🇷 Mendoza, Argentina</h3>
 
 
 <p>Soy estudiante de desarrollo de software (Instituto Tecnológico Universitario, Universidad Nacional de Cuyo - ARG). Me dedico a desarrollo web, DevOps y arquitectura de software.  
@@ -64,7 +64,7 @@ I enjoy exploring new technologies, building educational projects to share knowl
 
 ---
 
-## ✉ Contacto
+<h2 align="center">✉ Contacto</h2>
 
 <div align="center" style="border:2px solid #4CAF50; padding: 10px; border-radius: 10px; display: inline-block;">
 - 📧 emiliano8977@gmail.com
